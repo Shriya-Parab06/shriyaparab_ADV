@@ -30,7 +30,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='Global_Education_Cleaned' name='textscan.0irsfej0kz0m9k11v3vua0qk2ryq'>
-            <connection class='textscan' directory='C:/Users/Saad Surve/Desktop/Btech/BE Btech/ADV/expt10/data' filename='Global_Education_Cleaned.csv' password='' server='' />
+            
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0irsfej0kz0m9k11v3vua0qk2ryq' name='Global_Education_Cleaned.csv' table='[Global_Education_Cleaned#csv]' type='table'>
